@@ -1,0 +1,2 @@
+# PATTERN10
+functions
